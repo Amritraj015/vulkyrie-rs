@@ -2,6 +2,7 @@
 
 members = [ 
     "vcommon", 
+    "vraylib",
     "vnetwork", 
     "vserver",
     "vulkyrie", 
